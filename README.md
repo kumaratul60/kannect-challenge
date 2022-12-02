@@ -22,5 +22,7 @@ the type of token (i.e. JWT) and the signing algorithm (i.e. HS512)
 # Advantages of JWT
 
 🚀 Simple verification through a JSON Web Token
+
 🚀 You can use an authentication service or outsource it
+
 🚀 Provides more trustworthiness than cookies or sessions
